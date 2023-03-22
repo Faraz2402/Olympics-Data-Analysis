@@ -35,7 +35,7 @@ Workings:
 3) Age column has 9474 NA values, Height has one value with Athlete Name and 60171 NA values, Weight has 62875 NA values. 
    NA VALUES % - AGE 3.5%, Height 22% and Weight 23% in the total dataset.
 4) Removed unnecessary columns such as Height, Weight and Team. Also removed NA values in the Medal Column as only medal winners were analyzed.
-5) After removing NA values the dataset was reduced to 35000+
+5) After removing NA values the dataset was reduced to 35000+ rows.
 6) Multiple tables were made from the dataset to help in better understanding of data and applying filters.
 7) Converted age,medals into bins and groups to better visualize the data.
 
