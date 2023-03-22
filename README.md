@@ -1,12 +1,12 @@
 Olympic Games 1896 - 2016, the topics covered:
 
-(1) Medal count by games and the top 10 NOC teams
+(1) Medal count by games and the top 10 National Teams.
 
-(2) Country insights by medals, gender, age etc.
+(2) Gender gap & Age Insights
 
-(3) Age and Gender distribution
+(3) Countries & their best Athletes
 
-(4) Continent overview
+(4) Europe's dominance & rise of Asia
 
 Datasource: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
